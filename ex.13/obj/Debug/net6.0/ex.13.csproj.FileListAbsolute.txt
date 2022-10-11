@@ -1,0 +1,15 @@
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/bin/Debug/net6.0/ex.13
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/bin/Debug/net6.0/ex.13.deps.json
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/bin/Debug/net6.0/ex.13.runtimeconfig.json
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/bin/Debug/net6.0/ex.13.dll
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/bin/Debug/net6.0/ex.13.pdb
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.csproj.AssemblyReference.cache
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.AssemblyInfoInputs.cache
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.AssemblyInfo.cs
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.csproj.CoreCompileInputs.cache
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.dll
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/refint/ex.13.dll
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.pdb
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ex.13.genruntimeconfig.cache
+/Users/ekaterinashvalyuk/Desktop/homework2/ex.13/obj/Debug/net6.0/ref/ex.13.dll
